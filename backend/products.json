@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1999.99,
+      "category": "electronics",
+      "description": "A powerful laptop for productivity.",
+      "image": "/images/laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Table",
+      "price": 499.99,
+      "category": "furniture",
+      "description": "A sturdy wooden dining table.",
+      "image": "/images/table.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 999.99,
+      "category": "electronics",
+      "description": "A sleek smartphone with great features.",
+      "image": "/images/phone.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chair",
+      "price": 129.99,
+      "category": "furniture",
+      "description": "A comfortable chair for your office.",
+      "image": "/images/chair.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Headphones",
+      "price": 199.99,
+      "category": "electronics",
+      "description": "Noise-cancelling headphones for clear audio.",
+      "image": "/images/headphones.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Watch",
+      "price": 149.99,
+      "category": "electronics",
+      "description": "A stylish smartwatch with fitness tracking.",
+      "image": "/images/watch.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Desk Lamp",
+      "price": 39.99,
+      "category": "furniture",
+      "description": "A modern lamp for your desk.",
+      "image": "/images/desk-lamp.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bookshelf",
+      "price": 299.99,
+      "category": "furniture",
+      "description": "A large bookshelf with multiple shelves.",
+      "image": "/images/bookshelf.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tablet",
+      "price": 499.99,
+      "category": "electronics",
+      "description": "A lightweight tablet for work and play.",
+      "image": "/images/tablet.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sofa",
+      "price": 999.99,
+      "category": "furniture",
+      "description": "A comfortable sofa for your living room.",
+      "image": "/images/sofa.jpg"
+    }
+  ]
