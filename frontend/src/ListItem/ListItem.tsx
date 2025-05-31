@@ -1,4 +1,5 @@
 import { FC } from 'react';
+import './ListItem.scss';
 
 interface ListItemProps {
   id: number;

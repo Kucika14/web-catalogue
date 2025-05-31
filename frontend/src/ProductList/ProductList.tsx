@@ -1,6 +1,6 @@
 import { FC, useEffect, useState } from "react";
 import axios from "axios";
-import "./ProductList.css";
+import "./ProductList.scss";
 import ListItem from "../ListItem/ListItem";
 
 interface Product {
