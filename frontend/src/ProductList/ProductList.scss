@@ -1,11 +1,12 @@
 .product-list {
-    padding: 1rem;
+  padding: 1rem;
 }
 
 ul {
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-direction: column;
 }

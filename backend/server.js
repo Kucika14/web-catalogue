@@ -20,6 +20,11 @@ try {
   console.error("Error reading products.json file:", error.message);
 }
 
+// Test API Endpoint
+app.get("/api/test", (req, res) => {
+  res.send({ message: "API is working!" });
+});
+
 // API Endpoint: Get all products
 app.get("/api/products", (req, res) => {
   res.status(200).json(products);
