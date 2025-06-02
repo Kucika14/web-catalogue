@@ -32,7 +32,7 @@ const ProductList: FC = () => {
       <h1>Product List</h1>
       <ul>
         {products.map(product => (
-          <ListItem {...product} />
+          <ListItem {...product} key={product.id} />
         ))}
       </ul>
     </div>

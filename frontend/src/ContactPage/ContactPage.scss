@@ -1,0 +1,42 @@
+.contact-page {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 32px 24px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+
+  h1 {
+    margin-bottom: 16px;
+    color: #222;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+
+  p {
+    margin-bottom: 18px;
+    color: #444;
+    font-size: 1.08rem;
+
+    a {
+      color: #0078d4;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  address {
+    font-style: normal;
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.7;
+    background: #f6f8fa;
+    padding: 14px 18px;
+    border-radius: 8px;
+    margin-top: 8px;
+    border-left: 4px solid #0078d4;
+  }
+}
