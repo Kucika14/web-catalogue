@@ -78,5 +78,245 @@
     "category": "furniture",
     "description": "A comfortable sofa for your living room.",
     "image": "/images/sofa.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "category": "electronics",
+    "description": "Portable speaker with high-quality sound.",
+    "image": "/images/bluetooth-speaker.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Coffee Table",
+    "price": 89.99,
+    "category": "furniture",
+    "description": "A stylish coffee table for your living room.",
+    "image": "/images/coffee-table.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "category": "electronics",
+    "description": "High-precision mouse for gaming.",
+    "image": "/images/gaming-mouse.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Office Desk",
+    "price": 199.99,
+    "category": "furniture",
+    "description": "Spacious desk for your home office.",
+    "image": "/images/office-desk.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Smart TV",
+    "price": 799.99,
+    "category": "electronics",
+    "description": "4K Ultra HD smart television.",
+    "image": "/images/smart-tv.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Bookshelf Speaker",
+    "price": 149.99,
+    "category": "electronics",
+    "description": "Compact speakers for bookshelf use.",
+    "image": "/images/bookshelf-speaker.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dining Chair",
+    "price": 59.99,
+    "category": "furniture",
+    "description": "Comfortable chair for dining rooms.",
+    "image": "/images/dining-chair.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Wireless Charger",
+    "price": 29.99,
+    "category": "electronics",
+    "description": "Fast wireless charging pad.",
+    "image": "/images/wireless-charger.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Bed Frame",
+    "price": 299.99,
+    "category": "furniture",
+    "description": "Queen size wooden bed frame.",
+    "image": "/images/bed-frame.jpg"
+  },
+  {
+    "id": 20,
+    "name": "E-reader",
+    "price": 129.99,
+    "category": "electronics",
+    "description": "Lightweight e-reader with backlight.",
+    "image": "/images/e-reader.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Floor Lamp",
+    "price": 69.99,
+    "category": "furniture",
+    "description": "Tall floor lamp for ambient lighting.",
+    "image": "/images/floor-lamp.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "category": "electronics",
+    "description": "Track your daily activity and health.",
+    "image": "/images/fitness-tracker.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Recliner",
+    "price": 399.99,
+    "category": "furniture",
+    "description": "Comfortable recliner chair.",
+    "image": "/images/recliner.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Wireless Keyboard",
+    "price": 39.99,
+    "category": "electronics",
+    "description": "Slim wireless keyboard for easy typing.",
+    "image": "/images/wireless-keyboard.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Nightstand",
+    "price": 49.99,
+    "category": "furniture",
+    "description": "Bedside nightstand with drawer.",
+    "image": "/images/nightstand.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Action Camera",
+    "price": 199.99,
+    "category": "electronics",
+    "description": "Waterproof action camera for adventures.",
+    "image": "/images/action-camera.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Wardrobe",
+    "price": 349.99,
+    "category": "furniture",
+    "description": "Spacious wardrobe for your clothes.",
+    "image": "/images/wardrobe.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Soundbar",
+    "price": 179.99,
+    "category": "electronics",
+    "description": "Enhance your TV audio with this soundbar.",
+    "image": "/images/soundbar.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Bookshelf (Small)",
+    "price": 69.99,
+    "category": "furniture",
+    "description": "Compact bookshelf for small spaces.",
+    "image": "/images/bookshelf-small.jpg"
+  },
+  {
+    "id": 30,
+    "name": "VR Headset",
+    "price": 299.99,
+    "category": "electronics",
+    "description": "Immersive virtual reality headset.",
+    "image": "/images/vr-headset.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Bar Stool",
+    "price": 39.99,
+    "category": "furniture",
+    "description": "Modern bar stool for kitchen islands.",
+    "image": "/images/bar-stool.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Digital Camera",
+    "price": 249.99,
+    "category": "electronics",
+    "description": "High-resolution digital camera.",
+    "image": "/images/digital-camera.jpg"
+  },
+  {
+    "id": 33,
+    "name": "TV Stand",
+    "price": 109.99,
+    "category": "furniture",
+    "description": "TV stand with storage shelves.",
+    "image": "/images/tv-stand.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Smart Light Bulb",
+    "price": 19.99,
+    "category": "electronics",
+    "description": "Wi-Fi enabled smart light bulb.",
+    "image": "/images/smart-light-bulb.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Dresser",
+    "price": 159.99,
+    "category": "furniture",
+    "description": "Six-drawer dresser for bedroom storage.",
+    "image": "/images/dresser.webp"
+  },
+  {
+    "id": 36,
+    "name": "Bluetooth Earbuds",
+    "price": 69.99,
+    "category": "electronics",
+    "description": "True wireless Bluetooth earbuds.",
+    "image": "/images/bluetooth-earbuds.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Bookshelf (Corner)",
+    "price": 89.99,
+    "category": "furniture",
+    "description": "Corner bookshelf for efficient storage.",
+    "image": "/images/bookshelf-corner.webp"
+  },
+  {
+    "id": 38,
+    "name": "Portable Projector",
+    "price": 229.99,
+    "category": "electronics",
+    "description": "Mini projector for movies and presentations.",
+    "image": "/images/portable-projector.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Shoe Rack",
+    "price": 39.99,
+    "category": "furniture",
+    "description": "Multi-tier shoe rack for entryways.",
+    "image": "/images/shoe-rack.webp"
+  },
+  {
+    "id": 40,
+    "name": "Smart Plug",
+    "price": 14.99,
+    "category": "electronics",
+    "description": "Control your devices remotely with this smart plug.",
+    "image": "/images/smart-plug.jpg"
   }
 ]
