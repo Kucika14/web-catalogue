@@ -1,14 +1,15 @@
-import styles from './App.scss';
 import HomePage from './HomePage/HomePage';
 import ProductList from './ProductList/ProductList';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import AboutPage from './AboutPage/AboutPage';
 import ContactPage from './ContactPage/ContactPage';
+import styles from "./App.scss";
 
 function App() {
+  console.log('App styles:', styles);
   return (
     <Router>
-      <div className={styles.App}>
+      <div className={styles.app} data-dolmanyosvarju>
         <header className={styles.header}>
           <h1>Product Management App</h1>
         </header>

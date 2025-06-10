@@ -1,6 +1,6 @@
 import { FC, useEffect, useState } from "react";
 import axios from "axios";
-import "./ProductList.scss";
+import styles from "./ProductList.scss";
 import ListItem from "../ListItem/ListItem";
 
 interface Product {
@@ -28,7 +28,7 @@ const ProductList: FC = () => {
   }, []);
 
   return (
-    <div className="product-list">
+    <div className={styles.productList}>
       <h1>Product List</h1>
       <ul>
         {products.map(product => (
