@@ -12,256 +12,224 @@
     "name": "Table",
     "price": 179.99,
     "category": "furniture",
-    "description": "A sturdy wooden dining table.",
-    "image": "/images/table.jpg"
+    "description": "A sturdy wooden dining table."
   },
   {
     "id": 3,
     "name": "Phone",
     "price": 599.99,
     "category": "electronics",
-    "description": "A sleek smartphone with great features.",
-    "image": "/images/phone.jpg"
+    "description": "A sleek smartphone with great features."
   },
   {
     "id": 4,
     "name": "Chair",
     "price": 69.99,
     "category": "furniture",
-    "description": "A comfortable chair for your office.",
-    "image": "/images/chair.jpg"
+    "description": "A comfortable chair for your office."
   },
   {
     "id": 5,
     "name": "Headphones",
     "price": 89.99,
     "category": "electronics",
-    "description": "Noise-cancelling headphones for clear audio.",
-    "image": "/images/headphones.jpg"
+    "description": "Noise-cancelling headphones for clear audio."
   },
   {
     "id": 6,
     "name": "Watch",
     "price": 129.99,
     "category": "electronics",
-    "description": "A stylish smartwatch with fitness tracking.",
-    "image": "/images/watch.jpg"
+    "description": "A stylish smartwatch with fitness tracking."
   },
   {
     "id": 7,
     "name": "Desk Lamp",
     "price": 24.99,
     "category": "furniture",
-    "description": "A modern lamp for your desk.",
-    "image": "/images/desk-lamp.jpg"
+    "description": "A modern lamp for your desk."
   },
   {
     "id": 8,
     "name": "Bookshelf",
     "price": 119.99,
     "category": "furniture",
-    "description": "A large bookshelf with multiple shelves.",
-    "image": "/images/bookshelf.jpg"
+    "description": "A large bookshelf with multiple shelves."
   },
   {
     "id": 9,
     "name": "Tablet",
     "price": 299.99,
     "category": "electronics",
-    "description": "A lightweight tablet for work and play.",
-    "image": "/images/tablet.jpg"
+    "description": "A lightweight tablet for work and play."
   },
   {
     "id": 10,
     "name": "Sofa",
     "price": 499.99,
     "category": "furniture",
-    "description": "A comfortable sofa for your living room.",
-    "image": "/images/sofa.jpg"
+    "description": "A comfortable sofa for your living room."
   },
   {
     "id": 11,
     "name": "Bluetooth Speaker",
     "price": 59.99,
     "category": "electronics",
-    "description": "Portable speaker with high-quality sound.",
-    "image": "/images/bluetooth-speaker.jpg"
+    "description": "Portable speaker with high-quality sound."
   },
   {
     "id": 12,
     "name": "Coffee Table",
     "price": 89.99,
     "category": "furniture",
-    "description": "A stylish coffee table for your living room.",
-    "image": "/images/coffee-table.jpg"
+    "description": "A stylish coffee table for your living room."
   },
   {
     "id": 13,
     "name": "Gaming Mouse",
     "price": 49.99,
     "category": "electronics",
-    "description": "High-precision mouse for gaming.",
-    "image": "/images/gaming-mouse.jpg"
+    "description": "High-precision mouse for gaming."
   },
   {
     "id": 14,
     "name": "Office Desk",
     "price": 199.99,
     "category": "furniture",
-    "description": "Spacious desk for your home office.",
-    "image": "/images/office-desk.jpg"
+    "description": "Spacious desk for your home office."
   },
   {
     "id": 15,
     "name": "Smart TV",
     "price": 799.99,
     "category": "electronics",
-    "description": "4K Ultra HD smart television.",
-    "image": "/images/smart-tv.jpg"
+    "description": "4K Ultra HD smart television."
   },
   {
     "id": 16,
     "name": "Bookshelf Speaker",
     "price": 149.99,
     "category": "electronics",
-    "description": "Compact speakers for bookshelf use.",
-    "image": "/images/bookshelf-speaker.jpg"
+    "description": "Compact speakers for bookshelf use."
   },
   {
     "id": 17,
     "name": "Dining Chair",
     "price": 59.99,
     "category": "furniture",
-    "description": "Comfortable chair for dining rooms.",
-    "image": "/images/dining-chair.jpg"
+    "description": "Comfortable chair for dining rooms."
   },
   {
     "id": 18,
     "name": "Wireless Charger",
     "price": 29.99,
     "category": "electronics",
-    "description": "Fast wireless charging pad.",
-    "image": "/images/wireless-charger.jpg"
+    "description": "Fast wireless charging pad."
   },
   {
     "id": 19,
     "name": "Bed Frame",
     "price": 299.99,
     "category": "furniture",
-    "description": "Queen size wooden bed frame.",
-    "image": "/images/bed-frame.jpg"
+    "description": "Queen size wooden bed frame."
   },
   {
     "id": 20,
     "name": "E-reader",
     "price": 129.99,
     "category": "electronics",
-    "description": "Lightweight e-reader with backlight.",
-    "image": "/images/e-reader.jpg"
+    "description": "Lightweight e-reader with backlight."
   },
   {
     "id": 21,
     "name": "Floor Lamp",
     "price": 69.99,
     "category": "furniture",
-    "description": "Tall floor lamp for ambient lighting.",
-    "image": "/images/floor-lamp.jpg"
+    "description": "Tall floor lamp for ambient lighting."
   },
   {
     "id": 22,
     "name": "Fitness Tracker",
     "price": 79.99,
     "category": "electronics",
-    "description": "Track your daily activity and health.",
-    "image": "/images/fitness-tracker.jpg"
+    "description": "Track your daily activity and health."
   },
   {
     "id": 23,
     "name": "Recliner",
     "price": 399.99,
     "category": "furniture",
-    "description": "Comfortable recliner chair.",
-    "image": "/images/recliner.jpg"
+    "description": "Comfortable recliner chair."
   },
   {
     "id": 24,
     "name": "Wireless Keyboard",
     "price": 39.99,
     "category": "electronics",
-    "description": "Slim wireless keyboard for easy typing.",
-    "image": "/images/wireless-keyboard.jpg"
+    "description": "Slim wireless keyboard for easy typing."
   },
   {
     "id": 25,
     "name": "Nightstand",
     "price": 49.99,
     "category": "furniture",
-    "description": "Bedside nightstand with drawer.",
-    "image": "/images/nightstand.jpg"
+    "description": "Bedside nightstand with drawer."
   },
   {
     "id": 26,
     "name": "Action Camera",
     "price": 199.99,
     "category": "electronics",
-    "description": "Waterproof action camera for adventures.",
-    "image": "/images/action-camera.jpg"
+    "description": "Waterproof action camera for adventures."
   },
   {
     "id": 27,
     "name": "Wardrobe",
     "price": 349.99,
     "category": "furniture",
-    "description": "Spacious wardrobe for your clothes.",
-    "image": "/images/wardrobe.jpg"
+    "description": "Spacious wardrobe for your clothes."
   },
   {
     "id": 28,
     "name": "Soundbar",
     "price": 179.99,
     "category": "electronics",
-    "description": "Enhance your TV audio with this soundbar.",
-    "image": "/images/soundbar.jpg"
+    "description": "Enhance your TV audio with this soundbar."
   },
   {
     "id": 29,
     "name": "Bookshelf (Small)",
     "price": 69.99,
     "category": "furniture",
-    "description": "Compact bookshelf for small spaces.",
-    "image": "/images/bookshelf-small.jpg"
+    "description": "Compact bookshelf for small spaces."
   },
   {
     "id": 30,
     "name": "VR Headset",
     "price": 299.99,
     "category": "electronics",
-    "description": "Immersive virtual reality headset.",
-    "image": "/images/vr-headset.jpg"
+    "description": "Immersive virtual reality headset."
   },
   {
     "id": 31,
     "name": "Bar Stool",
     "price": 39.99,
     "category": "furniture",
-    "description": "Modern bar stool for kitchen islands.",
-    "image": "/images/bar-stool.jpg"
+    "description": "Modern bar stool for kitchen islands."
   },
   {
     "id": 32,
     "name": "Digital Camera",
     "price": 249.99,
     "category": "electronics",
-    "description": "High-resolution digital camera.",
-    "image": "/images/digital-camera.jpg"
+    "description": "High-resolution digital camera."
   },
   {
     "id": 33,
     "name": "TV Stand",
     "price": 109.99,
     "category": "furniture",
-    "description": "TV stand with storage shelves.",
-    "image": "/images/tv-stand.jpg"
+    "description": "TV stand with storage shelves."
   },
   {
     "id": 34,

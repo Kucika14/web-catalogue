@@ -1,5 +1,7 @@
 import { FC } from 'react';
 import styles from './ListItem.scss';
+import noImage from './assets/no_image_avaliable.jpg';
+import { useNavigate } from 'react-router-dom';
 
 interface ListItemProps {
   id: number;
@@ -18,13 +20,23 @@ const ListItem: FC<ListItemProps> = ({
   description,
   image
 }) => {
+
+  const navigate = useNavigate();
+
+  const imgUrl = image ? `http://localhost:5000${image}` : noImage;
+
+  const handleOnClick = () => {
+    console.log(`Clicked on product ${id}`);
+    navigate(`/products/${id}`);
+  }
+
   return (
-    <li className="list-item" key={id}>
+    <li className={styles.listItem} key={id} onClick={handleOnClick}>
       <h3>{name}</h3>
       <p>Price: ${price.toFixed(2)}</p>
       <p>Category: {category}</p>
       <p>{description}</p>
-      {image && <img src={`http://localhost:5000${image}`} alt={name} />}
+      <img src={imgUrl} alt={name} />
     </li>
   );
 };
